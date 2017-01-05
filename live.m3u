@@ -1,3 +1,51 @@
 #EXTM3U
-#EXTINF:-1,TV Mol
-http://hd4.com.br:1935/mataoonline/mataoonline/playlist.m3u8
+#EXTINF:-1,SPORT KLUB 2
+http://1.442244.info/cro_sport_klub_2/index.m3u8
+#EXTINF:-1,SPORT KLUB 3
+http://1.442244.info/cro_sport_klub_3/index.m3u8
+#EXTINF:-1,MTV SPORT 1 HD
+http://1.442244.info/fin_mtv_sport_1_hd/index.m3u8
+#EXTINF:-1,MTV SPORT 2 HD
+http://1.442244.info/fin_mtv_sport_2_hd/index.m3u8
+#EXTINF:-1,LA 1
+http://1.442244.info/sp_la_1/index.m3u8
+#EXTINF:-1,LA 2
+http://1.442244.info/sp_la_2/index.m3u8
+#EXTINF:-1,ESPN
+http://1.442244.info/uk_espn/index.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://1.442244.info/uk_sky_sports_1/index.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://1.442244.info/uk_sky_sports_2/index.m3u8
+#EXTINF:-1,SKY SPORTS 3
+http://1.442244.info/uk_sky_sports_3/index.m3u8
+#EXTINF:-1,SKY SPORTS 4
+http://1.442244.info/uk_sky_sports_4/index.m3u8
+#EXTINF:-1,SKY SPORTS F1
+http://1.442244.info/uk_sky_sports_f1/index.m3u8
+#EXTINF:-1,PREMIER SPORT
+http://1.442244.info/uk_premier_sport/index.m3u8
+#EXTINF:-1,M FOTBOL
+http://1.442244.info/sp_m_fotbol/index.m3u8
+#EXTINF:-1,M DEPORTES 1
+http://1.442244.info/sp_m_dep_1/index.m3u8
+#EXTINF:-1,LA LIGA TV
+http://1.442244.info/sp_laligatv_bar/index.m3u8
+#EXTINF:-1,BEIN LA LIGA
+http://1.442244.info/sp_bein_laliga/index.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://1.442244.info/sp_real_madrid_tv/index.m3u8
+#EXTINF:-1,M GOLF
+http://1.442244.info/sp_m_golf/index.m3u8
+#EXTINF:-1,ZIGGO SPORT VOETBAL
+http://1.442244.info/nl_ziggo_sport_voetbal/index.m3u8
+#EXTINF:-1,ZIGGO SPORT GOLF
+http://1.442244.info/nl_ziggo_sport_golf/index.m3u8
+#EXTINF:-1,FOX SPORTS EDL3
+http://1.442244.info/nl_fox_sports_edl_3/index.m3u8
+#EXTINF:-1,ARENA SPORT 1 SERBIA
+http://1.442244.info/ser_arena_sport_1/index.m3u8
+#EXTINF:-1,ARENA SPORT 2 SERBIA
+http://1.442244.info/ser_arena_sport_2/index.m3u8
+#EXTINF:-1,ARENA SPORT 3 SERBIA
+http://1.442244.info/ser_arena_sport_3/index.m3u8
