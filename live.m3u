@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:-1,RedeTV!
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1,GLOBO SP
-http://31.204.150.39:8081/live/sptvh/playlist.m3u8
-#EXTINF:-1,GLOBO SP 2
-rtmp://31.204.150.39/online/RCGlobo
-#EXTINF:-1,GLOBO SP 3
-http://31.204.150.39:8081/live/globoz/playlist.m3u8
-#EXTINF:-1,RECORD
-http://31.204.150.39:8081/live/recordk/playlist.m3u8
-#EXTINF:-1,RECORD SP HD
-http://hls.stream.a8se.com/live/tvatalaia_abr/playlist.m3u8
-#EXTINF:-1,RECORD ES HD
-http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
-#EXTINF:-1,RECORD PR HD
-http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8
+#EXTINF:-1,Disney Channel
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,Cartoon Network HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,Nickelodeon
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,Nickelodeon HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,Nick Jr
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,Disney XD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,TOONCAST
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,BOOMERANG
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,FUTURAMA
+rtmp://208.53.164.194/ctv playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.hmtl
+#EXTINF:-1,DISCOVERY KIDS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
